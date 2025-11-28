@@ -1,4 +1,4 @@
-# fly.toml app configuration file generated for react-pokedex-2023-back on 2025-11-28T03:58:24Z
+# fly.toml app configuration file generated for react-pokedex-2023-back on 2025-11-28T04:33:56Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
@@ -20,3 +20,4 @@ primary_region = 'dfw'
   memory = '256mb'
   cpu_kind = 'shared'
   cpus = 1
+  memory_mb = 256
